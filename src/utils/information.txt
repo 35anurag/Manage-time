@@ -1,0 +1,1 @@
+in this code newContents contains all the doing todo and completed and the error in this code is that when the task moves to another container the previous task when it come to the previous task index it doesn't do any functionalities
